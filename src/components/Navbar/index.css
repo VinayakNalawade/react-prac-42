@@ -1,0 +1,50 @@
+.navbar-dark-theme {
+  background-color: #333333;
+  color: #ffffff;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-light-theme {
+  background-color: #ffffff;
+  color: #000000;
+  border-bottom: 1px solid #dcdcdc;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.link-dark-theme {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 18px;
+  margin: 12px;
+  font-weight: 700;
+}
+
+.link-light-theme {
+  color: #000000;
+  text-decoration: none;
+  font-size: 18px;
+  margin: 12px;
+  font-weight: 700;
+}
+
+.website-logo {
+  width: 60px;
+  margin-left: 15px;
+}
+
+.theme-button {
+  background-color: transparent;
+  outline: none;
+  border: none;
+}
+
+.theme-logo {
+  width: 50px;
+  margin-right: 12px;
+}
